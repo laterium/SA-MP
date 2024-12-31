@@ -6,8 +6,6 @@ This repository is a project of reverse engineering the latest San Andreas Multi
 
 This project is still far from finished and/or stable state. You can check out the project's spreadsheets to see the progress of the repository. Be aware that the spreadsheet is incomplete. There might be more tasks to complete than it's listed.
 
-https://docs.google.com/spreadsheets/d/1iMv8OprvI1SP4Gkxf4iM34ah-W3hNOl11qoFfuqxsoE/
-
 ### How to compile it?
 
 1. Download and install Visual Studio from the Microsoft's website. [https://visualstudio.microsoft.com/] Visual Studio Community is recommended, it is free, but an account will be required to use. During the installation, it will prompt you to chose **Workloads**, and in the list, make sure **Desktop development with C++** is checked. Everything else not needed to be changed. If something is missing, you can always add new components later in the IDE clicking on **Tools** -> **Get Tools and Features**.
